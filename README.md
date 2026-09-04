@@ -31,6 +31,9 @@ My current professional development focuses on advancing from GIS Technician res
 
 ## 🚀 Selected GIS Projects
 
+### 🚨 Christchurch Smart Navigation & Emergency Response Network 2030
+Personal GIS Portfolio Project demonstrating an end-to-end emergency response workflow using ArcGIS Pro, eight ModelBuilder automation workflows, Network Analyst, Closest Facility analysis, fire and police response routing, ArcGIS Online Web GIS, and an interactive ArcGIS Dashboard.
+
 ### 🏙️ Nalgonda GeoAI Smart City Digital Twin 2030
 3D smart-city GIS project incorporating buildings, roads, streetlights, traffic signs, vegetation, terrain, utilities, animation, and Digital Twin visualization.
 
