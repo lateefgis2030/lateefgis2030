@@ -31,6 +31,11 @@ My current professional development focuses on advancing from GIS Technician res
 
 ## 🚀 Selected GIS Projects
 
+### 🚀 LateefGeo AI — Geospatial Application Development (Ongoing)
+Personal GIS application development project exploring OpenStreetMap-based mapping, geospatial asset extraction workflows, feature review, and GIS data exports.
+Technologies: Python, FastAPI, Leaflet, OpenStreetMap, GeoJSON, and GIS data processing.
+Currently developing and testing building footprint extraction and segmentation workflows.
+
 ### 🚨 Christchurch Smart Navigation & Emergency Response Network 2030
 Personal GIS Portfolio Project demonstrating an end-to-end emergency response workflow using ArcGIS Pro, eight ModelBuilder automation workflows, Network Analyst, Closest Facility analysis, fire and police response routing, ArcGIS Online Web GIS, and an interactive ArcGIS Dashboard.
 
@@ -57,9 +62,11 @@ I am currently expanding my practical experience in:
 
 ## 🎯 Career Focus
 
- GIS Specialist → GIS Analyst
+ **Career Focus**
 
-My goal is to combine extensive infrastructure GIS experience with GIS automation, spatial analysis, Web GIS, and Digital Twin technologies.
+GIS Specialist | Infrastructure GIS | Spatial Data Management | GIS Automation
+
+My professional goal is to combine my extensive experience in infrastructure GIS and geospatial data management with advanced spatial analysis, Python/ArcPy automation, Web GIS, and Digital Twin technologies.
 
 ## 🤝 Connect
 
