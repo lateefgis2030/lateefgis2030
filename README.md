@@ -1,6 +1,6 @@
 # 👋 Mohammed Abdul Lateef
 
-### Sr. GIS Technician / Analyst | Infrastructure GIS | ArcGIS Pro | ArcPy | 3D GIS & Digital Twin | Web GIS
+### GIS Specialist | ArcGIS Pro | Python & ArcPy | Infrastructure GIS | Spatial Data QA/QC | 3D GIS & Digital Twins | Web GIS
 
 📍 Doha, Qatar
 
