@@ -57,7 +57,7 @@ I am currently expanding my practical experience in:
 
 ## 🎯 Career Focus
 
-GIS Technician → GIS Analyst → GIS Specialist
+ GIS Specialist → GIS Analyst
 
 My goal is to combine extensive infrastructure GIS experience with GIS automation, spatial analysis, Web GIS, and Digital Twin technologies.
 
